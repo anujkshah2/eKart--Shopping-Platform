@@ -1,0 +1,733 @@
+{
+  "maincategory": [
+    {
+      "name": "Kids",
+      "id": "1"
+    },
+    {
+      "name": "Female",
+      "id": "2"
+    },
+    {
+      "id": "220a",
+      "name": "Male"
+    }
+  ],
+  "subcategory": [
+    {
+      "name": "Trouser",
+      "id": "1"
+    },
+    {
+      "name": "Tshirt",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Shirt"
+    },
+    {
+      "id": "4",
+      "name": "Jeans"
+    }
+  ],
+  "brand": [
+    {
+      "id": "1",
+      "name": "Tommy Hilfiger"
+    },
+    {
+      "name": "Polo",
+      "id": "2"
+    },
+    {
+      "name": "Gucci",
+      "id": "3"
+    },
+    {
+      "name": "Zara",
+      "id": "4"
+    },
+    {
+      "name": "Nike",
+      "id": "5"
+    },
+    {
+      "name": "Reebok",
+      "id": "6"
+    },
+    {
+      "name": "Puma",
+      "id": "7"
+    },
+    {
+      "name": "Adidas",
+      "id": "8"
+    },
+    {
+      "name": "Cobb",
+      "id": "9"
+    },
+    {
+      "name": "H&M",
+      "id": "10"
+    },
+    {
+      "id": "11",
+      "name": "Mufti"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "name": "Male Jeans Slim Fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "30",
+      "baseprice": 9850,
+      "discount": 65,
+      "finalprice": 3447.5,
+      "stock": "In Stock",
+      "description": "<p><span style=\"color: rgb(230, 126, 35);\"><em><span style=\"text-decoration: underline;\"><strong>This is Sample Product</strong></span></em></span></p>",
+      "pic1": "p1.jpg",
+      "pic2": "p2.jpg",
+      "pic3": "p7.jpg",
+      "pic4": "p5.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Male Jeans Regular Fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "36",
+      "baseprice": 4500,
+      "discount": 50,
+      "finalprice": 2250,
+      "stock": "In Stock",
+      "description": "This is a Sample Product",
+      "pic1": "p7.jpg",
+      "pic2": "p5.jpg",
+      "pic3": "p1.jpg",
+      "pic4": "p2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Male Jeans Black",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Tommy Hilfiger",
+      "color": "Blue",
+      "size": "36",
+      "baseprice": "6500",
+      "discount": "65",
+      "finalprice": 2275,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p5.jpg",
+      "pic2": "p2.jpg",
+      "pic3": "p1.jpg",
+      "pic4": "p7.jpg"
+    },
+    {
+      "name": "Male Jeans Blue",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "34",
+      "baseprice": "48700",
+      "discount": "87",
+      "finalprice": 6331,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p1.jpg",
+      "pic2": "p2.jpg",
+      "pic3": "p5.jpg",
+      "pic4": "p10.jpg",
+      "id": "4"
+    },
+    {
+      "name": "Male Tshirt Polo",
+      "maincategory": "Male",
+      "subcategory": "Tshirt",
+      "brand": "Polo",
+      "color": "White",
+      "size": "MD",
+      "baseprice": "4500",
+      "discount": "80",
+      "finalprice": 900,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p2.jpg",
+      "pic2": "p15.jpg",
+      "pic3": "p24.jpg",
+      "pic4": "p29.jpg",
+      "id": "5"
+    },
+    {
+      "name": "Male Shirt Nike",
+      "maincategory": "Male",
+      "subcategory": "Shirt",
+      "brand": "Nike",
+      "color": "Green Check",
+      "size": "XL",
+      "baseprice": "4500",
+      "discount": "90",
+      "finalprice": 450,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p25.jpg",
+      "pic2": "p26.jpg",
+      "pic3": "p40.jpg",
+      "pic4": "p38.jpg",
+      "id": "6"
+    },
+    {
+      "name": "Male Tshirt Black Adidas",
+      "maincategory": "Male",
+      "subcategory": "Tshirt",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "XXL",
+      "baseprice": "15000",
+      "discount": "80",
+      "finalprice": 3000,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p3.jpg",
+      "pic2": "p51.jpg",
+      "pic3": "p52.jpg",
+      "pic4": "p49.jpg",
+      "id": "7"
+    },
+    {
+      "name": "Male Trouser Polo",
+      "maincategory": "Male",
+      "subcategory": "Trouser",
+      "brand": "Polo",
+      "color": "Black",
+      "size": "34",
+      "baseprice": "8500",
+      "discount": "85",
+      "finalprice": 1275,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p10.jpg",
+      "pic2": "p11.jpg",
+      "pic3": "p41.jpg",
+      "pic4": "p44.jpg",
+      "id": "8"
+    },
+    {
+      "name": "Female Jeans Slim Fit",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "32",
+      "baseprice": "4500",
+      "discount": "45",
+      "finalprice": 2475,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p12.jpg",
+      "pic2": "p17.jpg",
+      "pic3": "p19.jpg",
+      "pic4": "p47.jpg",
+      "id": "9"
+    },
+    {
+      "id": "10",
+      "name": "Female Jeans Mufti",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Blue",
+      "size": "28",
+      "baseprice": "8580",
+      "discount": "80",
+      "finalprice": 1716,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p32.jpg",
+      "pic2": "p12.jpg",
+      "pic3": "p53.jpg",
+      "pic4": "p73.jpg"
+    },
+    {
+      "name": "Female Tshirt Adidas",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Adidas",
+      "color": "White",
+      "size": "MD",
+      "baseprice": "4500",
+      "discount": "45",
+      "finalprice": 2475,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p22.jpg",
+      "pic2": "p28.jpg",
+      "pic3": "p39.jpg",
+      "pic4": "p23.jpg",
+      "id": "11"
+    },
+    {
+      "name": "Female Tshirt White Mufti",
+      "maincategory": "Female",
+      "subcategory": "Tshirt",
+      "brand": "Mufti",
+      "color": "White",
+      "size": "M",
+      "baseprice": "2500",
+      "discount": "85",
+      "finalprice": 375,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p23.jpg",
+      "pic2": "p28.jpg",
+      "pic3": "p19.jpg",
+      "pic4": "p6.jpg",
+      "id": "12"
+    },
+    {
+      "name": "Female Shirt Gucci",
+      "maincategory": "Female",
+      "subcategory": "Shirt",
+      "brand": "Gucci",
+      "color": "White",
+      "size": "M",
+      "baseprice": "8585",
+      "discount": "25",
+      "finalprice": 6439,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p72.jpg",
+      "pic2": "p71.jpg",
+      "pic3": "p70.jpg",
+      "pic4": "p9.jpg",
+      "id": "13"
+    },
+    {
+      "name": "Kids Jeans Tommy Hilfiger",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Tommy Hilfiger",
+      "color": "Black",
+      "size": "26",
+      "baseprice": "5000",
+      "discount": "50",
+      "finalprice": 2500,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p43.jpg",
+      "pic2": "p43.jpg",
+      "pic3": "p42.jpg",
+      "pic4": "p66.jpg",
+      "id": "14"
+    },
+    {
+      "name": "Male Jeans",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "34",
+      "baseprice": "4500",
+      "discount": "45",
+      "finalprice": 2475,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p16.jpg",
+      "pic2": "p7.jpg",
+      "pic3": "p44.jpg",
+      "pic4": "p5.jpg",
+      "id": "15"
+    },
+    {
+      "name": "Male Jeans Regular Fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Blue",
+      "size": "34",
+      "baseprice": "8585",
+      "discount": "85",
+      "finalprice": 1288,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p44.jpg",
+      "pic2": "p7.jpg",
+      "pic3": "p2.jpg",
+      "pic4": "p11.jpg",
+      "id": "16"
+    },
+    {
+      "name": "Male Jeans Ripped",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "32",
+      "baseprice": "9850",
+      "discount": "50",
+      "finalprice": 4925,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p41.jpg",
+      "pic2": "p10.jpg",
+      "pic3": "p2.jpg",
+      "pic4": "p1.jpg",
+      "id": "17"
+    },
+    {
+      "id": "18",
+      "name": "Male Jeans Slim  Fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "36",
+      "baseprice": 7800,
+      "discount": 78,
+      "finalprice": 1716,
+      "stock": "In Stock",
+      "description": "<h3 class=\"product-facts-title\">Product details</h3>\n<div class=\"a-fixed-left-grid product-facts-detail\">\n<div class=\"a-fixed-left-grid-inner\">\n<div class=\"a-fixed-left-grid-col a-col-left\" style=\"text-align: left;\"><span class=\"a-color-base\"><strong>Material type&nbsp; </strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class=\"a-color-base\">Cotton</span></div>\n</div>\n</div>\n<div class=\"a-fixed-left-grid product-facts-detail\" style=\"text-align: left;\">\n<div class=\"a-fixed-left-grid-inner\">\n<div class=\"a-fixed-left-grid-col a-col-left\"><span class=\"a-color-base\"><strong>Style&nbsp; &nbsp;</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class=\"a-color-base\">Classic</span></div>\n</div>\n</div>\n<div class=\"a-fixed-left-grid product-facts-detail\" style=\"text-align: left;\">\n<div class=\"a-fixed-left-grid-inner\">\n<div class=\"a-fixed-left-grid-col a-col-left\"><span class=\"a-color-base\"><strong>Closure type&nbsp;</strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span class=\"a-color-base\">Button</span></div>\n</div>\n</div>\n<div class=\"a-fixed-left-grid product-facts-detail\" style=\"text-align: left;\">\n<div class=\"a-fixed-left-grid-inner\">\n<div class=\"a-fixed-left-grid-col a-col-left\"><span class=\"a-color-base\"><strong>Occasion type</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class=\"a-color-base\">Casual</span></div>\n</div>\n</div>\n<div class=\"a-fixed-left-grid product-facts-detail\" style=\"text-align: left;\">\n<div class=\"a-fixed-left-grid-inner\">\n<div class=\"a-fixed-left-grid-col a-col-left\"><span class=\"a-color-base\"><strong>Care instructions</strong>&nbsp; &nbsp; &nbsp; &nbsp;</span><span class=\"a-color-base\">Machine Wash</span></div>\n</div>\n</div>\n<div class=\"a-fixed-left-grid product-facts-detail\">\n<div class=\"a-fixed-left-grid-inner\">\n<div class=\"a-fixed-left-grid-col a-col-left\" style=\"text-align: left;\"><span class=\"a-color-base\"><strong>Fit type&nbsp; </strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><span class=\"a-color-base\">Regular</span></div>\n</div>\n</div>\n<hr class=\"a-spacing-base a-spacing-top-base a-divider-normal\" aria-hidden=\"true\">\n<h3 class=\"product-facts-title\">About this item</h3>\n<ul class=\"a-unordered-list a-vertical a-spacing-small\">\n<li><span class=\"a-list-item a-size-base a-color-base\">Fabric Care Description :: 100% Cotton, Machine wash</span></li>\n</ul>\n<ul class=\"a-unordered-list a-vertical a-spacing-small\">\n<li><span class=\"a-list-item a-size-base a-color-base\">Fit Type :: Regular Fit</span></li>\n</ul>\n<ul class=\"a-unordered-list a-vertical a-spacing-small\">\n<li><span class=\"a-list-item a-size-base a-color-base\">Rise Type :: Mid Rise</span></li>\n</ul>\n<ul class=\"a-unordered-list a-vertical a-spacing-small\">\n<li><span class=\"a-list-item a-size-base a-color-base\">Closure Type :: Button &amp; Zip</span></li>\n</ul>\n<ul class=\"a-unordered-list a-vertical a-spacing-small\">\n<li><span class=\"a-list-item a-size-base a-color-base\">Stretchability :: Non stretchable</span></li>\n</ul>\n<hr class=\"a-spacing-base a-spacing-top-base a-divider-normal\" aria-hidden=\"true\">\n<h3 class=\"product-facts-title\">Additional Information</h3>\n<div class=\"a-fixed-left-grid product-facts-detail\">\n<div class=\"a-fixed-left-grid-inner\">\n<div class=\"a-fixed-left-grid-col a-col-left\"><span class=\"a-color-base\">Manufacturer</span></div>\n<div class=\"a-fixed-left-grid-col a-col-right\"><span class=\"a-color-base\">Raymond Uco Denim Pvt Ltd D1 &amp; D2, Apparel Park,,Bangalore,561203,IN, Raymond Uco Denim Pvt Ltd</span></div>\n</div>\n</div>",
+      "pic1": "p16.jpg",
+      "pic2": "p1.jpg",
+      "pic3": "p2.jpg",
+      "pic4": "p7.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Male jeans Adidas",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "34",
+      "baseprice": 4500,
+      "discount": 45,
+      "finalprice": 2475,
+      "stock": "In Stock",
+      "description": "<p>These <strong>Adidas </strong>jeans are a must-have for any man looking for a classic, versatile pair. Made from a soft, stretchy cotton fabric, they are designed to be comfortable and breathable.</p>\n<p>The mid-blue wash gives them a one-of-a-kind look that will keep them fashion-forward. Add on a denim jacket and sneakers for a classic combination.</p>",
+      "pic1": "p7.jpg",
+      "pic2": "p5.jpg",
+      "pic3": "p1.jpg",
+      "pic4": "p2.jpg"
+    }
+  ],
+  "user": [
+    {
+      "id": "cb03",
+      "name": "Vishank Chauhan",
+      "username": "vishank",
+      "email": "vishankchauhan1@gmail.com",
+      "phone": "9873848046",
+      "password": "Vishank@123",
+      "role": "Admin",
+      "pic": "p24.jpg"
+    },
+    {
+      "id": "a0f5",
+      "name": "Nitin Chauhan",
+      "username": "nitin",
+      "email": "vishankchauhan@gmail.com",
+      "phone": "9873848046",
+      "password": "Nitin@123",
+      "role": "Buyer",
+      "address": "A-43,Sector 16, Noida",
+      "city": "Noida",
+      "state": "UP",
+      "pin": "201301",
+      "pic": "p1.jpg"
+    },
+    {
+      "id": "2597",
+      "name": "anuj",
+      "username": "anuj",
+      "email": "anujkshah2@gmail.com",
+      "phone": "8368864957",
+      "password": "anujkshah",
+      "role": "Buyer"
+    },
+    {
+      "id": "fcad",
+      "name": "suresh",
+      "username": "suresh",
+      "email": "manu@gmail.com",
+      "phone": "8368864957",
+      "password": "anujkshah",
+      "role": "Buyer"
+    },
+    {
+      "id": "eba3",
+      "name": "Abhishek",
+      "username": "abhishek",
+      "email": "abhi123@gmail.com",
+      "phone": "9038478730",
+      "password": "abhishek",
+      "role": "Admin"
+    }
+  ],
+  "cart": [
+    {
+      "id": "b37a",
+      "productid": "19",
+      "userid": "6ba9",
+      "name": "Male jeans Adidas",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "34",
+      "price": 2475,
+      "qty": 1,
+      "total": 2475,
+      "pic": "p7.jpg"
+    },
+    {
+      "id": "bcce",
+      "productid": "18",
+      "userid": "2597",
+      "name": "Male Jeans Slim  Fit",
+      "brand": "Mufti",
+      "color": "Black",
+      "size": "36",
+      "price": 1716,
+      "qty": 1,
+      "total": 1716,
+      "pic": "p16.jpg"
+    },
+    {
+      "id": "00c5",
+      "productid": "19",
+      "userid": "fcad",
+      "name": "Male jeans Adidas",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "34",
+      "price": 2475,
+      "qty": 1,
+      "total": 2475,
+      "pic": "p7.jpg"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "db46",
+      "productid": "17",
+      "userid": "a0f5",
+      "name": "Male Jeans Ripped",
+      "brand": "Adidas",
+      "color": "Black",
+      "size": "32",
+      "price": 4925,
+      "pic": "p41.jpg"
+    }
+  ],
+  "checkout": [
+    {
+      "id": "be4b",
+      "userid": "a0f5",
+      "orderstatus": "Order is Placed",
+      "paymentstatus": "Pending",
+      "paymentmode": "COD",
+      "subtotal": 7456,
+      "shipping": 0,
+      "total": 7456,
+      "date": "2024-02-22T07:58:15.891Z",
+      "products": [
+        {
+          "id": "b091",
+          "productid": "4",
+          "userid": "a0f5",
+          "name": "Male Jeans Blue",
+          "brand": "Adidas",
+          "color": "Blue",
+          "size": "34",
+          "price": 6331,
+          "qty": 1,
+          "total": 6331,
+          "pic": "p1.jpg"
+        },
+        {
+          "id": "8119",
+          "productid": "12",
+          "userid": "a0f5",
+          "name": "Female Tshirt White Mufti",
+          "brand": "Mufti",
+          "color": "White",
+          "size": "M",
+          "price": 375,
+          "qty": 3,
+          "total": 1125,
+          "pic": "p23.jpg"
+        }
+      ]
+    },
+    {
+      "id": "78cf",
+      "userid": "a0f5",
+      "orderstatus": "Delivered",
+      "paymentstatus": "Done",
+      "paymentmode": "COD",
+      "subtotal": 11839,
+      "shipping": 0,
+      "total": 11839,
+      "date": "2024-02-22T08:13:43.535Z",
+      "products": [
+        {
+          "id": "28e9",
+          "productid": "11",
+          "userid": "a0f5",
+          "name": "Female Tshirt Adidas",
+          "brand": "Adidas",
+          "color": "White",
+          "size": "MD",
+          "price": 2475,
+          "qty": 1,
+          "total": 2475,
+          "pic": "p22.jpg"
+        },
+        {
+          "id": "236d",
+          "productid": "13",
+          "userid": "a0f5",
+          "name": "Female Shirt Gucci",
+          "brand": "Gucci",
+          "color": "White",
+          "size": "M",
+          "price": 6439,
+          "qty": 1,
+          "total": 6439,
+          "pic": "p72.jpg"
+        },
+        {
+          "id": "0275",
+          "productid": "6",
+          "userid": "a0f5",
+          "name": "Male Shirt Nike",
+          "brand": "Nike",
+          "color": "Green Check",
+          "size": "XL",
+          "price": 450,
+          "qty": 1,
+          "total": 450,
+          "pic": "p25.jpg"
+        },
+        {
+          "id": "f2d4",
+          "productid": "19",
+          "userid": "a0f5",
+          "name": "Male jeans Adidas",
+          "brand": "Adidas",
+          "color": "Black",
+          "size": "34",
+          "price": 2475,
+          "qty": 1,
+          "total": 2475,
+          "pic": "p7.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3851",
+      "userid": "eba3",
+      "orderstatus": "Order is Placed",
+      "paymentstatus": "Pending",
+      "paymentmode": "COD",
+      "subtotal": 2275,
+      "shipping": 0,
+      "total": 2275,
+      "date": "2024-05-03T08:00:22.038Z",
+      "products": [
+        {
+          "id": "53fa",
+          "productid": "3",
+          "userid": "eba3",
+          "name": "Male Jeans Black",
+          "brand": "Tommy Hilfiger",
+          "color": "Blue",
+          "size": "36",
+          "price": 2275,
+          "qty": 1,
+          "total": 2275,
+          "pic": "p5.jpg"
+        }
+      ]
+    }
+  ],
+  "newsletter": [
+    {
+      "id": "e6a6",
+      "email": "vishankchauhan@gmail.com"
+    },
+    {
+      "id": "7619",
+      "email": "vishankchauhan1@gmail.com"
+    },
+    {
+      "id": "aa4c",
+      "email": "vishankchauhan2@gmail.com"
+    }
+  ],
+  "contactus": [
+    {
+      "id": "4143",
+      "name": "Nitin Chauhan",
+      "email": "vishankchauhan@gmail.com",
+      "phone": "9873848046",
+      "subject": "This is Sample Message",
+      "message": "This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message This is Sample Message ",
+      "date": "2024-02-26T08:12:11.172Z",
+      "active": false
+    },
+    {
+      "id": "359f",
+      "name": "Nitin Chauhan",
+      "email": "vishankchauhan@gmail.com",
+      "phone": "9873848046",
+      "subject": "AI that makes you more productive",
+      "message": "This is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample MessageThis is Sample Message",
+      "date": "2024-02-27T07:33:30.906Z",
+      "active": true
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "ff47",
+      "name": "Nitin Chauhan",
+      "profession": "IT Professional",
+      "star": "5",
+      "message": "Pros:\n\n80% cotton, 18% polyester, and 2% elastane for a comfortable stretch.\nSkinny fit that is snug at the waist, hip, and thigh.\nFitted from knee to ankle for a sleek look.\nZip fly with button closure for easy wear.\nFive-pocket styling for a classic look.\nAvailable in a variety of colors to suit your style.\nCons:\n\nMay not be as comfortable as looser-fitting jeans.\nMay not be suitable for all body types.\nOverall:\n\nI would recommend the Symbol Men's Skinny Fit Stretch Jeans to anyone looking for a stylish and comfortable pair of jeans. They are perfect for everyday wear and can be dressed up or down.",
+      "pic": "p1.jpg"
+    },
+    {
+      "id": "2399",
+      "name": "Deepak Singh Gusain",
+      "profession": "IT Professional",
+      "star": "5",
+      "message": "Hey , If you're looking for a winter jacket with hoodie then you're looking it right now. I bought this one and have to say I'm quite impressed with its fitting and quality. No doubts. I love it. So don't wait just look out for your size and place an order. What, don't like it. No worries, Amazon will return and refund it. Go grab it.",
+      "pic": "p2.jpg"
+    },
+    {
+      "id": "8ed7",
+      "name": "Mohit Sharma",
+      "profession": "Accounant",
+      "star": "5",
+      "message": "I like that they haven't compromised on the quality, the hoodie fits perfectly n feels quite comfortable, however there's so much difference in the colour I purchased a Navy blue hoodie but it looks black the one which the model is wearing is kind of deceptive.(4 stars for quality n perfect fit only)",
+      "pic": "p16.jpg"
+    },
+    {
+      "id": "a451",
+      "name": "Nikita Singh",
+      "profession": "Student",
+      "star": "4",
+      "message": "Nice hoodie, look cool and nice for casual wear as well as for winter, nice stuff to buy. price for this should be 700-800 range. but good quality and printing. feels soft and warm.",
+      "pic": "p19.jpg"
+    }
+  ]
+}
